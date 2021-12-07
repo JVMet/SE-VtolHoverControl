@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vtol Hover", "Vtol Hover.csproj", "{9A4F7939-C724-4A8C-AAC7-0C467382399D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4F7939-C724-4A8C-AAC7-0C467382399D}.Debug|x64.ActiveCfg = Debug|x64
+		{9A4F7939-C724-4A8C-AAC7-0C467382399D}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E4E7D1-A2DB-47BE-8E47-4E2786BEE737}
+	EndGlobalSection
+EndGlobal
